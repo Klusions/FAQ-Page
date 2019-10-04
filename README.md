@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img width="200" height="100" alt="Logo" src="https://i.imgur.com/0zjpP0u.png" />
+  <img width="210" height="210" alt="Logo" src="https://i.imgur.com/0zjpP0u.png" />
   <br>
 
 
@@ -19,4 +19,4 @@
 
 ![#DA70D6](https://placehold.it/15/48D1CC/000000?text=+) `Released at 01.10.2019`  
 
-![AGodZilla](https://prnt.sc/peuuqe)
+![TimsLab](https://i.imgur.com/BWk1bpo.png)
