@@ -19,4 +19,6 @@
 
 ![#DA70D6](https://placehold.it/15/48D1CC/000000?text=+) `Released at 01.10.2019`  
 
-![TimsLab](https://i.imgur.com/BWk1bpo.png)
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/BWk1bpo.png">
+</p>
